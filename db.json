@@ -17,6 +17,18 @@
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
       "reminder": false
+    },
+    {
+      "text": "Indomine",
+      "day": "today",
+      "remainder": true,
+      "id": 4
+    },
+    {
+      "text": "sinmi",
+      "day": "today",
+      "remainder": true,
+      "id": 5
     }
   ]
 }
